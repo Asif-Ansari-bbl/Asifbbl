@@ -10,7 +10,9 @@
 
 - 🌱 I’m currently learning **Python, SQL, Data Visualization, Machine Learning, Deep Learning**
 
-- 📫 How to reach me **asif.17bme**
+- 📫 How to reach me **asif.17bme@gmail.com**
+
+- 📫  You can contect me by LinkedIn Id **https://www.linkedin.com/in/asif-ansari-960967170/**
 
 - ⚡ Fun fact **I love to make new friends**
 
