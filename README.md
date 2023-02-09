@@ -14,7 +14,9 @@
 
 - 📫  You can contect me by LinkedIn Id **https://www.linkedin.com/in/asif-ansari-960967170/**
 
-- ⚡ Fun fact **I love to make new friends**
+- ⚡ Fun fact **I love to make new friends **
+
+- ⚡ Fun fact **I love to help people **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
