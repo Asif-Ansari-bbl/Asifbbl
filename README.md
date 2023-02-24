@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I love to make new friends **
 
-- ⚡ Fun fact **I love to help people **
+- ⚡ Fun fact **I love to help people those who want help **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
