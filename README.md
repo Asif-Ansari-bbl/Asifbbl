@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python, SQL, Data Visualization, Machine Learning, Deep Learning**
+- 🌱 I’m currently learning **Python, SQL, Data Visualization, Machine Learning, Web Scraping ,Deep Learning**
 
 - 📫 How to reach me **asif.17bme@gmail.com**
 
